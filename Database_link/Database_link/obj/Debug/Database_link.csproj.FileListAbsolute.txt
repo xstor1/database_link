@@ -1,0 +1,27 @@
+c:\users\storvojtech\documents\visual studio 2015\Projects\Database_link\Database_link\bin\Debug\Database_link.exe.config
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\Database_link.exe.config
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\Database_link.exe
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\Database_link.pdb
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\EntityFramework.dll
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\EntityFramework.SqlServer.dll
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\MySql.Data.dll
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\MySql.Data.Entity.EF6.dll
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\EntityFramework.xml
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\bin\Debug\EntityFramework.SqlServer.xml
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\obj\Debug\Database_link.csprojResolveAssemblyReference.cache
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\obj\Debug\Database_link.Form1.resources
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\obj\Debug\Database_link.Properties.Resources.resources
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\obj\Debug\Database_link.csproj.GenerateResource.Cache
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\obj\Debug\Database_link.exe
+X:\programko\3 rocnikl\form\Projekt_zalohy\Database_link\Database_link\obj\Debug\Database_link.pdb
+C:\Users\xstor\Desktop\Database_link\Database_link\bin\Debug\Database_link.exe.config
+C:\Users\xstor\Desktop\Database_link\Database_link\obj\Debug\Database_link.exe
+C:\Users\xstor\Desktop\Database_link\Database_link\obj\Debug\Database_link.pdb
+C:\Users\xstor\Desktop\Database_link\Database_link\bin\Debug\Database_link.exe
+C:\Users\xstor\Desktop\Database_link\Database_link\bin\Debug\Database_link.pdb
+C:\Users\xstor\Desktop\Database_link\Database_link\bin\Debug\EntityFramework.xml
+C:\Users\xstor\Desktop\Database_link\Database_link\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xstor\Desktop\Database_link\Database_link\obj\Debug\Database_link.csprojResolveAssemblyReference.cache
+C:\Users\xstor\Desktop\Database_link\Database_link\obj\Debug\Database_link.Form1.resources
+C:\Users\xstor\Desktop\Database_link\Database_link\obj\Debug\Database_link.Properties.Resources.resources
+C:\Users\xstor\Desktop\Database_link\Database_link\obj\Debug\Database_link.csproj.GenerateResource.Cache
